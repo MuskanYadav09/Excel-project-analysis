@@ -16,4 +16,3 @@ Hands-on experience with real-world data from E-commerce Website.
 Detailed and actionable insights through meticulously crafted reports.
 Utilization of advanced Excel functionalities to meet business analytics needs.
 
-<img src="https://drive.google.com/file/d/1-uGT_oZpXuir2GRmop-WMDZzIoLul-5l/view?usp=sharing">
