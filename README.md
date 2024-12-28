@@ -12,6 +12,7 @@ PowerPivot: Enhanced data analysis and model creation.
 Data Modeling using DAX Formulas: Implemented to create complex data models and calculations.
 
 ## Reports Created
+- [Live interactive dashboard](https://1drv.ms/x/c/9b04f9bec11b32e3/ETMyP5L4TBNCjZCVoNqpF2MB1Xqhvgv8eYwPYDZao0mY2g?e=ilUECf): You can interact with live dashboard.
 - [Excel Dashboard](https://github.com/MuskanYadav09/Excel-project-analysis/blob/main/Excel%20Dashboard.png): Dashboard of Analysis with all parameters.
 - [Key Performance indicators](https://github.com/MuskanYadav09/Excel-project-analysis/blob/main/Key%20Performance%20Indicator.pdf): give an insight on Sales, Profit, Quantity sold, No. of orders, Profit Margin.
 - [Analysis by factors](https://github.com/MuskanYadav09/Excel-project-analysis/blob/main/Analysis%20by%20factors.pdf): Analyzes overall Sales by profit, Category wise profit, %Sales share, Sales by state, Top  categories by sale.
